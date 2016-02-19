@@ -1,7 +1,13 @@
 Code Book for Final Project for Coursera Data Cleaning Course File, tidydata.csv
 
-180 Rows, each row contains mean values by calculated for each subject (col2) and 
-activity (col1) for mean or standard deviation measurements from the Samsung data.
+180 Rows, each row contains mean values calculated for each subject (col2) and 
+activity (col1) for mean or standard deviation measurements from the Samsung activity
+monitor data set described here: 
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Data represent summary values (means) of the merged test and training sets for 30 subjects
+tested across 6 different activities.
 
 Column labels are cleaned versions of the original labels from the Samsung data as follows:
 
